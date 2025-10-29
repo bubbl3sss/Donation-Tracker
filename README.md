@@ -40,4 +40,5 @@ Every donation is publicly viewable, timestamped, and stored forever — ensurin
     -getDonationHistory(address recipient) → detailed donation list (donor, amount, timestamp).
 
 CONTRACT ADDRESS: 0x2a2b2a6D813e7Cb7C4176e50b52904EaB39De4FF
+screenshot:
 <img width="1920" height="1080" alt="celosepolia" src="https://github.com/user-attachments/assets/616604bd-2819-4b50-a834-f175585d367b" />
